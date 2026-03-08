@@ -2,3 +2,9 @@
 *.parquet
 *.csv
 Anaconda3*
+mlruns/
+mlflow.db
+*.bin
+*.b
+artifacts/
+models/
